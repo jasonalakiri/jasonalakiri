@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Learning;Full+Stack+Web+Developement;AI+Engineering;Always+LockedIn+%2C+Always+Building" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jason%20Alakiri&fontSize=50&desc=Full%20Stack%20&%20AI%20Engineer&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jason%20Alakiri&fontSize=50&desc=Full%20Stack%20Web%20Developer&descAlignY=65" width="100%"/>
 
 <br/>
 
@@ -44,6 +44,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,15 +54,6 @@
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonalakiri&show_icons=true&theme=radical)
-
-</div>
 
 ---
 
