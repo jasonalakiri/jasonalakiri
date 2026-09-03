@@ -34,7 +34,7 @@
 - How to reach me: **jasonalakiri@gmail.com or codemiq@gmail.com**
 - Pronouns: **He/him**
 - Nationality: **Nigerian**
-- Brand Name: **codewithzyra*
+- Brand Name: **codewithzyra**
 
 ---
 
