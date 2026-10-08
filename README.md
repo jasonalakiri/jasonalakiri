@@ -31,7 +31,7 @@
 - I'm currently working on **codebloom with a Team and building my brand portfolio**
 - I'm currently learning **JavaScript on Freecodecamp**
 - Ask me about **Full Stack Web Development & AI Engineering**
-- How to reach me: **jasonalakiri@gmail.com or codemiq@gmail.com**
+- How to reach me: **jasonalakiri@gmail.com**
 - Pronouns: **He/him**
 - Nationality: **Nigerian**
 
